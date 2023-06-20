@@ -1,0 +1,13 @@
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\CoffeeKepler.Interfaces.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\CoffeeKepler.Interfaces.pdb
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\Relativity.API.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\Relativity.Kepler.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\Relativity.Logging.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\Relativity.Logging.Interfaces.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\Relativity.API.xml
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\bin\Debug\Relativity.Kepler.xml
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\obj\Debug\CoffeeKepler.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\obj\Debug\CoffeeKepler.Interfaces.csproj.CopyComplete
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\obj\Debug\CoffeeKepler.Interfaces.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\obj\Debug\CoffeeKepler.Interfaces.pdb
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Interfaces\obj\Debug\CoffeeKepler.Interfaces.csprojAssemblyReference.cache

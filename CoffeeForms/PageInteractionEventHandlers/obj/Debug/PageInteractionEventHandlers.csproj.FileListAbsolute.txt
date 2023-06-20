@@ -1,0 +1,11 @@
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\bin\Debug\PageInteractionEventHandlers.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\bin\Debug\PageInteractionEventHandlers.pdb
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\bin\Debug\kCura.EventHandler.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\bin\Debug\Relativity.API.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\bin\Debug\kCura.EventHandler.xml
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\bin\Debug\Relativity.API.xml
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\obj\Debug\PageInteractionEventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\obj\Debug\PageInteractionEventHandlers.csproj.CopyComplete
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\obj\Debug\PageInteractionEventHandlers.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\obj\Debug\PageInteractionEventHandlers.pdb
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeForms\PageInteractionEventHandlers\obj\Debug\PageInteractionEventHandlers.csprojAssemblyReference.cache

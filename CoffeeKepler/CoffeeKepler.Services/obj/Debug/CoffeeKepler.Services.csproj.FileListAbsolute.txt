@@ -1,0 +1,17 @@
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\CoffeeKepler.Services.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\CoffeeKepler.Services.pdb
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\CoffeeKepler.Interfaces.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Relativity.API.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Relativity.Kepler.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Relativity.Logging.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Relativity.Logging.Interfaces.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\CoffeeKepler.Interfaces.pdb
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Relativity.API.xml
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Relativity.Kepler.xml
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\obj\Debug\CoffeeKepler.Services.csprojAssemblyReference.cache
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\obj\Debug\CoffeeKepler.Services.csproj.CoreCompileInputs.cache
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\obj\Debug\CoffeeKepler.Services.csproj.CopyComplete
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\obj\Debug\CoffeeKepler.Services.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\obj\Debug\CoffeeKepler.Services.pdb
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arlette.diaz\source\repos\HelloCoffee\CoffeeKepler\CoffeeKepler.Services\bin\Debug\Newtonsoft.Json.xml
